@@ -1,0 +1,142 @@
+From_Name,From_GPS_X,From_GPS_Y,To_Name,To_GPS_X,To_GPS_Y,Rounded_Distance_Miles,Description,Direction,Rounded_Traffic_Minutes,Traffic
+Alhambra,34.095287,-118.1270146,Century City,34.0536608,-118.4133894,23,I-10 W,AM,74,heavy
+Beverly Hills,34.0736204,-118.4003563,Century City,34.0536608,-118.4133894,2,"CA-2, Avenue of the Stars",AM,10,light
+Burbank,34.1808392,-118.3089661,Century City,34.0536608,-118.4133894,22,"US-101 N, I-405 S",AM,61,heavy
+Arcadia,34.1397292,-118.0353449,Century City,34.0536608,-118.4133894,33,"I-210 W, I-10 W",AM,88,heavy
+Century City,34.0536608,-118.4133894,Century City,34.0536608,-118.4133894,0,Same Location,AM,0,light
+Compton,33.8958492,-118.2200712,Century City,34.0536608,-118.4133894,23,"I-105 W, I-405 N",AM,68,heavy
+Carson,33.8316745,-118.281693,Century City,34.0536608,-118.4133894,23,I-405 N,AM,68,heavy
+Cerritos,33.8583483,-118.0647871,Century City,34.0536608,-118.4133894,36,"CA-91 W, I-405 N",AM,85,heavy
+Culver City,34.0211224,-118.3964665,Century City,34.0536608,-118.4133894,5,"I-10 W, W Pico Blvd",AM,16,light
+Downtown Los Angeles,34.040713,-118.2467693,Century City,34.0536608,-118.4133894,13,I-10 W,AM,50,medium
+Downey,33.9401088,-118.1331593,Century City,34.0536608,-118.4133894,24,"I-710 N, I-10 W",AM,75,heavy
+El Monte,34.0686206,-118.0275667,Century City,34.0536608,-118.4133894,27,I-10 W,AM,81,heavy
+Hancock Park,34.0723327,-118.3286614,Century City,34.0536608,-118.4133894,7,"Wilshire Blvd, W Olympic Blvd",AM,31,medium
+Hollywood,34.0928092,-118.3286614,Century City,34.0536608,-118.4133894,7,"CA-2, CA-2 S",AM,34,medium
+Hawthorne,33.9164032,-118.3525748,Century City,34.0536608,-118.4133894,14,"I-405 N, W Pico Blvd",AM,50,medium
+Glendale,34.1425078,-118.255075,Century City,34.0536608,-118.4133894,25,"US-101 N, I-405 S",AM,61,heavy
+Granada Hills,34.2793576,-118.5021527,Century City,34.0536608,-118.4133894,21,I-405 S,AM,66,heavy
+Koreatown,34.0609876,-118.3023579,Century City,34.0536608,-118.4133894,7,"Wilshire Blvd, W Olympic Blvd",AM,37,medium
+Inglewood,33.9616801,-118.3531311,Century City,34.0536608,-118.4133894,11,"I-405 N, W Pico Blvd",AM,38,medium
+La Cañada Flintridge,34.2068182,-118.2000277,Century City,34.0536608,-118.4133894,31,"CA-134 W, I-405 S",AM,66,heavy
+La Crescenta,34.228754,-118.2351192,Century City,34.0536608,-118.4133894,33,"CA-134 W, I-405 S",AM,71,heavy
+Lakewood,33.8536269,-118.1339563,Century City,34.0536608,-118.4133894,31,"I-105 W, I-405 N",AM,80,heavy
+Lancaster,34.6867846,-118.1541632,Century City,34.0536608,-118.4133894,68,"CA-14 S, I-405 S",AM,107,heavy
+Mar Vista,34.0152567,-118.4338345,Century City,34.0536608,-118.4133894,4,"S Barrington Ave, W Olympic Blvd",AM,17,light
+Manhattan Beach,33.8847361,-118.4109089,Century City,34.0536608,-118.4133894,17,"Vista del Mar, I-405 N",AM,46,medium
+Malibu,34.0259216,-118.7797571,Century City,34.0536608,-118.4133894,25,"CA-1, I-10 E",AM,53,medium
+Long Beach,33.7700504,-118.1937395,Century City,34.0536608,-118.4133894,31,I-405 N,AM,78,heavy
+Pacific Palisades,34.0356331,-118.5155901,Century City,34.0536608,-118.4133894,10,"I-10 E, Overland Ave",AM,26,light
+Monterey Park,34.0625106,-118.1228476,Century City,34.0536608,-118.4133894,22,I-10 W,AM,71,heavy
+Norwalk,33.9022367,-118.081733,Century City,34.0536608,-118.4133894,30,"I-105 W, I-405 N",AM,79,heavy
+Palos Verdes Estates,33.8005714,-118.3900737,Century City,34.0536608,-118.4133894,23,"Aviation Blvd, I-405 N",AM,72,heavy
+Pasadena,34.1477849,-118.1445155,Century City,34.0536608,-118.4133894,23,"CA-110 S, I-10 W",AM,75,heavy
+Paramount,33.8894598,-118.1597911,Century City,34.0536608,-118.4133894,26,"I-105 W, I-405 N",AM,74,heavy
+Rolling Hills Estates,33.7877943,-118.3581284,Century City,34.0536608,-118.4133894,23,"CA-107 N, I-405 N",AM,69,heavy
+San Marino,34.121397,-118.1064585,Century City,34.0536608,-118.4133894,24,"CA-110 S, I-10 W",AM,78,heavy
+Rosemead,34.0805651,-118.072846,Century City,34.0536608,-118.4133894,24,I-10 W,AM,79,heavy
+Santa Monica,34.0194543,-118.4911912,Century City,34.0536608,-118.4133894,7,"I-10 E, Overland Ave",AM,22,light
+Santa Clarita,34.3916641,-118.542586,Century City,34.0536608,-118.4133894,32,"Wiley Canyon Rd, I-405 S",AM,80,heavy
+Silver Lake,34.0869409,-118.2702036,Century City,34.0536608,-118.4133894,11,"US-101 N, CA-2",AM,46,medium
+Sherman Oaks,34.1489719,-118.451357,Century City,34.0536608,-118.4133894,9,"Beverly Glen Blvd, N Beverly Glen Blvd",AM,34,medium
+Torrance,33.8358492,-118.3406288,Century City,34.0536608,-118.4133894,20,"Prairie Ave, I-405 N",AM,62,heavy
+South Pasadena,34.1161196,-118.1503488,Century City,34.0536608,-118.4133894,21,"CA-110 S, I-10 W",AM,71,heavy
+University Park,34.0223519,-118.285117,Century City,34.0536608,-118.4133894,11,"I-10 W, W Pico Blvd",AM,47,medium
+Walnut,34.0202894,-117.8653386,Century City,34.0536608,-118.4133894,37,"CA-60 W, I-10 W",AM,102,heavy
+Westwood,34.0635016,-118.4455164,Century City,34.0536608,-118.4133894,3,"Westwood Blvd, CA-2 E",AM,14,light
+Alhambra,34.095287,-118.1270146,Downtown Los Angeles,34.040713,-118.2467693,10,"I-10 W, San Bernardino Fwy",AM,35,medium
+Whittier,33.9791793,-118.032844,Century City,34.0536608,-118.4133894,30,"CA-60 W, I-10 W",AM,87,heavy
+West Covina,34.0686208,-117.9389526,Century City,34.0536608,-118.4133894,32,I-10 W,AM,90,heavy
+Century City,34.0536608,-118.4133894,Downtown Los Angeles,34.040713,-118.2467693,13,I-10 E,AM,39,medium
+Beverly Hills,34.0736204,-118.4003563,Downtown Los Angeles,34.040713,-118.2467693,13,"S La Cienega Blvd, I-10 E",AM,40,medium
+Burbank,34.1808392,-118.3089661,Downtown Los Angeles,34.040713,-118.2467693,13,"I-5 S, CA-110 S",AM,46,medium
+Carson,33.8316745,-118.281693,Downtown Los Angeles,34.040713,-118.2467693,18,I-110 N,AM,50,medium
+Arcadia,34.1397292,-118.0353449,Downtown Los Angeles,34.040713,-118.2467693,22,"I-210 W, CA-134 W",AM,55,medium
+Culver City,34.0211224,-118.3964665,Downtown Los Angeles,34.040713,-118.2467693,11,I-10 E,AM,33,medium
+Downtown Los Angeles,34.040713,-118.2467693,Downtown Los Angeles,34.040713,-118.2467693,0,Same Location,AM,0,light
+Compton,33.8958492,-118.2200712,Downtown Los Angeles,34.040713,-118.2467693,10,S Alameda St,AM,43,medium
+Downey,33.9401088,-118.1331593,Downtown Los Angeles,34.040713,-118.2467693,14,"Stewart and Gray Rd, I-710 N",AM,41,medium
+Cerritos,33.8583483,-118.0647871,Downtown Los Angeles,34.040713,-118.2467693,24,"I-105 W, I-710 N",AM,58,medium
+Hancock Park,34.0723327,-118.3286614,Downtown Los Angeles,34.040713,-118.2467693,8,"Arlington Ave, I-10 E",AM,27,light
+Glendale,34.1425078,-118.255075,Downtown Los Angeles,34.040713,-118.2467693,11,"CA-2 S, CA-110 S",AM,39,medium
+Granada Hills,34.2793576,-118.5021527,Downtown Los Angeles,34.040713,-118.2467693,27,"CA-118 E, I-5 S",AM,69,heavy
+El Monte,34.0686206,-118.0275667,Downtown Los Angeles,34.040713,-118.2467693,14,"I-10 W, San Bernardino Fwy",AM,44,medium
+Koreatown,34.0609876,-118.3023579,Downtown Los Angeles,34.040713,-118.2467693,6,"S Normandie Ave, I-10 E",AM,19,light
+Hollywood,34.0928092,-118.3286614,Downtown Los Angeles,34.040713,-118.2467693,8,"CA-2, US-101 S",AM,33,medium
+Inglewood,33.9616801,-118.3531311,Downtown Los Angeles,34.040713,-118.2467693,12,"S La Brea Ave, I-10 E",AM,41,medium
+Hawthorne,33.9164032,-118.3525748,Downtown Los Angeles,34.040713,-118.2467693,15,"I-105 E, I-110 N",AM,46,medium
+La Cañada Flintridge,34.2068182,-118.2000277,Downtown Los Angeles,34.040713,-118.2467693,15,"CA-2 S, CA-110 S",AM,41,medium
+La Crescenta,34.228754,-118.2351192,Downtown Los Angeles,34.040713,-118.2467693,17,"CA-2 S, CA-110 S",AM,46,medium
+Lakewood,33.8536269,-118.1339563,Downtown Los Angeles,34.040713,-118.2467693,21,"CA-91 W, I-710 N",AM,57,medium
+Lancaster,34.6867846,-118.1541632,Downtown Los Angeles,34.040713,-118.2467693,64,"CA-14 S, Angeles Forest Hwy",AM,97,heavy
+Mar Vista,34.0152567,-118.4338345,Downtown Los Angeles,34.040713,-118.2467693,13,"Palms Blvd, I-10 E",AM,38,medium
+Manhattan Beach,33.8847361,-118.4109089,Downtown Los Angeles,34.040713,-118.2467693,21,"I-105 E, I-110 N",AM,57,medium
+Malibu,34.0259216,-118.7797571,Downtown Los Angeles,34.040713,-118.2467693,33,"CA-1, I-10 E",AM,67,heavy
+Long Beach,33.7700504,-118.1937395,Downtown Los Angeles,34.040713,-118.2467693,25,I-710 N,AM,59,medium
+Pacific Palisades,34.0356331,-118.5155901,Downtown Los Angeles,34.040713,-118.2467693,18,"CA-1, I-10 E",AM,44,medium
+Monterey Park,34.0625106,-118.1228476,Downtown Los Angeles,34.040713,-118.2467693,10,"I-10 W, E 7th St",AM,29,light
+Norwalk,33.9022367,-118.081733,Downtown Los Angeles,34.040713,-118.2467693,20,"I-105 W, I-710 N",AM,52,medium
+Palos Verdes Estates,33.8005714,-118.3900737,Downtown Los Angeles,34.040713,-118.2467693,29,"Palos Verdes Dr N, I-110 N",AM,68,heavy
+Pasadena,34.1477849,-118.1445155,Downtown Los Angeles,34.040713,-118.2467693,12,CA-110 S,AM,42,medium
+Paramount,33.8894598,-118.1597911,Downtown Los Angeles,34.040713,-118.2467693,16,"I-710 N, I-10 W",AM,48,medium
+Rolling Hills Estates,33.7877943,-118.3581284,Downtown Los Angeles,34.040713,-118.2467693,26,"Palos Verdes Dr N, I-110 N",AM,64,heavy
+Rosemead,34.0805651,-118.072846,Downtown Los Angeles,34.040713,-118.2467693,12,"I-10 W, San Bernardino Fwy",AM,42,medium
+Santa Monica,34.0194543,-118.4911912,Downtown Los Angeles,34.040713,-118.2467693,16,I-10 E,AM,41,medium
+San Marino,34.121397,-118.1064585,Downtown Los Angeles,34.040713,-118.2467693,13,"Huntington Dr, CA-110 S",AM,43,medium
+Santa Clarita,34.3916641,-118.542586,Downtown Los Angeles,34.040713,-118.2467693,34,"I-5 S, CA-110 S",AM,82,heavy
+Silver Lake,34.0869409,-118.2702036,Downtown Los Angeles,34.040713,-118.2467693,5,"Silver Lake Blvd, US-101 S",AM,19,light
+Sherman Oaks,34.1489719,-118.451357,Downtown Los Angeles,34.040713,-118.2467693,17,US-101 S,AM,56,medium
+South Pasadena,34.1161196,-118.1503488,Downtown Los Angeles,34.040713,-118.2467693,9,"CA-110 S, N Spring St",AM,34,medium
+Westwood,34.0635016,-118.4455164,Downtown Los Angeles,34.040713,-118.2467693,15,"I-405 S, I-10 E",AM,38,medium
+University Park,34.0223519,-118.285117,Downtown Los Angeles,34.040713,-118.2467693,5,"I-110 N, S San Pedro St",AM,16,light
+Torrance,33.8358492,-118.3406288,Downtown Los Angeles,34.040713,-118.2467693,21,"I-405 S, I-110 N",AM,55,medium
+West Covina,34.0686208,-117.9389526,Downtown Los Angeles,34.040713,-118.2467693,20,"I-10 W, San Bernardino Fwy",AM,55,medium
+Walnut,34.0202894,-117.8653386,Downtown Los Angeles,34.040713,-118.2467693,26,"CA-60 W, I-10 W",AM,71,heavy
+Beverly Hills,34.0736204,-118.4003563,Santa Monica,34.0194543,-118.4911912,9,"Wilshire Blvd, I-10 W",AM,25,light
+Alhambra,34.095287,-118.1270146,Santa Monica,34.0194543,-118.4911912,25,"Garfield Ave, I-10 W",AM,74,heavy
+Whittier,33.9791793,-118.032844,Downtown Los Angeles,34.040713,-118.2467693,19,"Beverly Blvd, CA-60 W",AM,54,medium
+Arcadia,34.1397292,-118.0353449,Santa Monica,34.0194543,-118.4911912,35,"I-210 W, I-10 W",AM,88,heavy
+Century City,34.0536608,-118.4133894,Santa Monica,34.0194543,-118.4911912,7,"W Pico Blvd, I-10 W",AM,20,light
+Burbank,34.1808392,-118.3089661,Santa Monica,34.0194543,-118.4911912,24,"US-101 N, I-405 S",AM,58,medium
+Carson,33.8316745,-118.281693,Santa Monica,34.0194543,-118.4911912,23,"I-405 N, I-10 W",AM,64,heavy
+Cerritos,33.8583483,-118.0647871,Santa Monica,34.0194543,-118.4911912,35,"CA-91 W, I-405 N",AM,81,heavy
+Culver City,34.0211224,-118.3964665,Santa Monica,34.0194543,-118.4911912,7,I-10 W,AM,18,light
+Downtown Los Angeles,34.040713,-118.2467693,Santa Monica,34.0194543,-118.4911912,15,I-10 W,AM,50,medium
+Compton,33.8958492,-118.2200712,Santa Monica,34.0194543,-118.4911912,23,"I-105 W, I-405 N",AM,65,heavy
+Downey,33.9401088,-118.1331593,Santa Monica,34.0194543,-118.4911912,27,"Somerset Ranch Rd N, I-105 W",AM,71,heavy
+Hancock Park,34.0723327,-118.3286614,Santa Monica,34.0194543,-118.4911912,12,"Venice Blvd, I-10 W",AM,38,medium
+Hawthorne,33.9164032,-118.3525748,Santa Monica,34.0194543,-118.4911912,14,"I-405 N, I-10 W",AM,47,medium
+Glendale,34.1425078,-118.255075,Santa Monica,34.0194543,-118.4911912,27,"US-101 N, I-405 S",AM,59,medium
+Granada Hills,34.2793576,-118.5021527,Santa Monica,34.0194543,-118.4911912,23,"I-405 S, I-10 W",AM,64,heavy
+El Monte,34.0686206,-118.0275667,Santa Monica,34.0194543,-118.4911912,29,I-10 W,AM,81,heavy
+Koreatown,34.0609876,-118.3023579,Santa Monica,34.0194543,-118.4911912,13,I-10 W,AM,45,medium
+Hollywood,34.0928092,-118.3286614,Santa Monica,34.0194543,-118.4911912,14,"Crenshaw Blvd, I-10 W",AM,46,medium
+Inglewood,33.9616801,-118.3531311,Santa Monica,34.0194543,-118.4911912,11,"I-405 N, I-10 W",AM,35,medium
+La Cañada Flintridge,34.2068182,-118.2000277,Santa Monica,34.0194543,-118.4911912,33,"CA-134 W, I-405 S",AM,64,heavy
+La Crescenta,34.228754,-118.2351192,Santa Monica,34.0194543,-118.4911912,35,"CA-134 W, I-405 S",AM,68,heavy
+Lakewood,33.8536269,-118.1339563,Santa Monica,34.0194543,-118.4911912,31,"I-105 W, I-405 N",AM,76,heavy
+Manhattan Beach,33.8847361,-118.4109089,Santa Monica,34.0194543,-118.4911912,17,"Vista del Mar, I-405 N",AM,42,medium
+Malibu,34.0259216,-118.7797571,Santa Monica,34.0194543,-118.4911912,19,"CA-1, CA-1 E",AM,40,medium
+Long Beach,33.7700504,-118.1937395,Santa Monica,34.0194543,-118.4911912,31,"I-710 N, I-405 N",AM,74,heavy
+Lancaster,34.6867846,-118.1541632,Santa Monica,34.0194543,-118.4911912,70,"CA-14 S, I-405 S",AM,104,heavy
+Mar Vista,34.0152567,-118.4338345,Santa Monica,34.0194543,-118.4911912,5,"S Barrington Ave, I-10 W",AM,15,light
+Pacific Palisades,34.0356331,-118.5155901,Santa Monica,34.0194543,-118.4911912,4,"Mesa Rd, CA-1",AM,12,light
+Monterey Park,34.0625106,-118.1228476,Santa Monica,34.0194543,-118.4911912,24,I-10 W,AM,70,heavy
+Norwalk,33.9022367,-118.081733,Santa Monica,34.0194543,-118.4911912,30,"I-105 W, I-405 N",AM,76,heavy
+Palos Verdes Estates,33.8005714,-118.3900737,Santa Monica,34.0194543,-118.4911912,23,"Aviation Blvd, I-405 N",AM,69,heavy
+Pasadena,34.1477849,-118.1445155,Santa Monica,34.0194543,-118.4911912,25,"CA-110 S, I-10 W",AM,75,heavy
+Paramount,33.8894598,-118.1597911,Santa Monica,34.0194543,-118.4911912,26,"I-105 W, I-405 N",AM,70,heavy
+Rolling Hills Estates,33.7877943,-118.3581284,Santa Monica,34.0194543,-118.4911912,23,"CA-107 N, I-405 N",AM,65,heavy
+Rosemead,34.0805651,-118.072846,Santa Monica,34.0194543,-118.4911912,27,I-10 W,AM,80,heavy
+Santa Monica,34.0194543,-118.4911912,Santa Monica,34.0194543,-118.4911912,0,Same Location,AM,0,light
+Sherman Oaks,34.1489719,-118.451357,Santa Monica,34.0194543,-118.4911912,14,"I-405 S, I-10 W",AM,36,medium
+San Marino,34.121397,-118.1064585,Santa Monica,34.0194543,-118.4911912,26,"CA-110 S, I-10 W",AM,78,heavy
+Santa Clarita,34.3916641,-118.542586,Santa Monica,34.0194543,-118.4911912,34,"Wiley Canyon Rd, I-405 S",AM,78,heavy
+University Park,34.0223519,-118.285117,Santa Monica,34.0194543,-118.4911912,13,I-10 W,AM,48,medium
+Silver Lake,34.0869409,-118.2702036,Santa Monica,34.0194543,-118.4911912,19,"US-101 S, I-10 W",AM,56,medium
+Torrance,33.8358492,-118.3406288,Santa Monica,34.0194543,-118.4911912,20,"Prairie Ave, I-405 N",AM,58,medium
+South Pasadena,34.1161196,-118.1503488,Santa Monica,34.0194543,-118.4911912,23,"CA-110 S, I-10 W",AM,71,heavy
+Walnut,34.0202894,-117.8653386,Santa Monica,34.0194543,-118.4911912,39,"CA-60 W, I-10 W",AM,102,heavy
+Westwood,34.0635016,-118.4455164,Santa Monica,34.0194543,-118.4911912,7,"I-405 S, I-10 W",AM,15,light
+Whittier,33.9791793,-118.032844,Santa Monica,34.0194543,-118.4911912,33,"CA-60 W, I-10 W",AM,86,heavy
+West Covina,34.0686208,-117.9389526,Santa Monica,34.0194543,-118.4911912,34,I-10 W,AM,90,heavy

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LA Commute</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+  <link rel="stylesheet" media="all" href="./assets/main.css">
+</head>
+<body>
+  <header>
+    <h3>Morning car commute to
+      <div class="select">
+        <span class="arrow"></span>
+          <select id="destinations">
+            <option value="Century City">Century City</option>
+            <option value="Downtown Los Angeles" selected="selected">Downtown LA</option>
+            <option value="Santa Monica">Santa Monica</option>
+          </select>
+      </div>
+    </h3>
+  </header>
+
+  <div id="map"></div>
+
+  <footer>
+    <h4>Notes</h4>
+    <ul>
+      <li>Traffic times are ballpark estimates calculated in Feb 2016.</li>
+      <li>The destinations are arbitrarily selected.</li>
+      <li>by @<a href="https://twitter.com/rexfeng">rexfeng</a> 2016</li>
+    </ul>
+  </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+  <script src="./assets/jquery.csv.js"></script>
+  <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+  <script src="./assets/main.js"></script>
+</body>
+</html>
